@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">H1101171047_tugasproject</string>
+    <string name="button_label_toast">toast</string>
+    <string name="button_label_count">count</string>
+    <string name="count_initial_value">47</string>
+    <string name="toast_message"> hello Delpia</string>
+    <string name="_47">47</string>
+    <string name="hello_delpia">hello delpia</string>
+</resources>
